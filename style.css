@@ -9,5 +9,9 @@
     color: black;
     font-family: 'Bebas Neue', cursive;
     font-size: 80px;
-
+}
+.border-image {
+    border: 5px green solid;
+    border-radius: 20px;
+    box-shadow: 0 0 20px -3px;
 }
