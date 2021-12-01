@@ -11,3 +11,8 @@
     font-size: 80px;
 
 }
+.border-image {
+    border: 5px rgb(145, 170, 104) solid;
+    border-radius: 20px;
+    box-shadow:  0 0 20px -3px rgba(0,0,0,.4);
+}
